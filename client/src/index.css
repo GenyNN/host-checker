@@ -1,0 +1,76 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.mainpage__content {
+  width: 35%;
+  margin-left: 35%;
+}
+
+.hostchecktable__header {
+  border: 4px double black;
+  background: #0c5;
+}
+
+.hostcheckservicetype__content {
+  width: 100%;
+}
+
+.hostcheckservicetype__inputfields {
+  margin-left: 25%;
+}
+
+.hostcheckservicetype__buttons {
+  margin-left: 30%;
+}
+
+.hostname__input {
+  float: left;
+}
+
+
+.hostname__value {
+  float: left;
+}
+
+.clear__class {
+  clear: both;
+}
+
+.hostchecktable__header__hostname {
+  width: 200px;
+  float: left;
+  font-weight: bold;
+}
+
+.hostchecktable__header__statusresult {
+  width: 30px;
+  float: left;
+  font-weight: bold;
+}
+
+.hostchecktable__row__hostname {
+  width: 200px;
+  float: left;
+}
+
+.hostchecktable__row__statusresult {
+  width: 30px;
+  float: left;
+}
+
+.check__ping {
+  float: left;
+}
+
+.check__http {
+  float: left;
+}
+
+.check__tcp {
+  float: left;
+}
+
+
